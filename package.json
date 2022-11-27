@@ -1,0 +1,27 @@
+{
+  "name": "express-js-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev-serve": "nodemon -e js,ejs server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewcauchi77/express-js-crud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewcauchi77/express-js-crud/issues"
+  },
+  "homepage": "https://github.com/drewcauchi77/express-js-crud#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
